@@ -18,7 +18,7 @@ class OperationParameter:
         self.parameter = parameter
     
     def printParameter(self, value):
-        return "\n\t\t<" + self.parameter + ">" + value + "" + "<\\" + self.parameter + ">"
+        return "\n\t\t<" + self.parameter + ">" + value + "" + "</" + self.parameter + ">"
         
 class ExecDate(OperationParameter):
     def __init__(self):

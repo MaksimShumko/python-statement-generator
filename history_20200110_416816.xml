@@ -7,1204 +7,1204 @@
 </search>
 <operations>
 	<operation>
-		<exec-date>2019-01-3<\exec-date>
-		<order-date>2019-01-1<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-3</exec-date>
+		<order-date>2019-01-1</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-1
-Oryginalna kwota operacji: 50.4 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-50.4</amount>
-		<ending-balance curr='PLN'>+9949.6</ending-balance>
+Oryginalna kwota operacji: 29.34 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-29.34</amount>
+		<ending-balance curr='PLN'>+9970.66</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-4<\exec-date>
-		<order-date>2019-01-2<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-4</exec-date>
+		<order-date>2019-01-2</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-2
-Oryginalna kwota operacji: 2.28 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-2.28</amount>
-		<ending-balance curr='PLN'>+9947.32</ending-balance>
+Oryginalna kwota operacji: 76.68 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-76.68</amount>
+		<ending-balance curr='PLN'>+9893.98</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-5<\exec-date>
-		<order-date>2019-01-3<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-5</exec-date>
+		<order-date>2019-01-3</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-3
-Oryginalna kwota operacji: 0.39 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-0.39</amount>
-		<ending-balance curr='PLN'>+9946.93</ending-balance>
+Oryginalna kwota operacji: 99.5 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-99.5</amount>
+		<ending-balance curr='PLN'>+9794.48</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-6<\exec-date>
-		<order-date>2019-01-4<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-6</exec-date>
+		<order-date>2019-01-4</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-4
-Oryginalna kwota operacji: 33.14 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-33.14</amount>
-		<ending-balance curr='PLN'>+9913.79</ending-balance>
+Oryginalna kwota operacji: 33.98 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-33.98</amount>
+		<ending-balance curr='PLN'>+9760.5</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-7<\exec-date>
-		<order-date>2019-01-5<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-7</exec-date>
+		<order-date>2019-01-5</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-5
-Oryginalna kwota operacji: 55.73 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-55.73</amount>
-		<ending-balance curr='PLN'>+9858.06</ending-balance>
+Oryginalna kwota operacji: 20.37 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-20.37</amount>
+		<ending-balance curr='PLN'>+9740.13</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-8<\exec-date>
-		<order-date>2019-01-6<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-8</exec-date>
+		<order-date>2019-01-6</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-6
-Oryginalna kwota operacji: 46.01 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-46.01</amount>
-		<ending-balance curr='PLN'>+9812.05</ending-balance>
+Oryginalna kwota operacji: 76.02 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-76.02</amount>
+		<ending-balance curr='PLN'>+9664.11</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-9<\exec-date>
-		<order-date>2019-01-7<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-9</exec-date>
+		<order-date>2019-01-7</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-7
-Oryginalna kwota operacji: 73.97 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-73.97</amount>
-		<ending-balance curr='PLN'>+9738.08</ending-balance>
+Oryginalna kwota operacji: 34.41 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-34.41</amount>
+		<ending-balance curr='PLN'>+9629.7</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-10<\exec-date>
-		<order-date>2019-01-8<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-10</exec-date>
+		<order-date>2019-01-8</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-8
-Oryginalna kwota operacji: 11.39 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-11.39</amount>
-		<ending-balance curr='PLN'>+9726.69</ending-balance>
+Oryginalna kwota operacji: 95.67 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-95.67</amount>
+		<ending-balance curr='PLN'>+9534.03</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-11<\exec-date>
-		<order-date>2019-01-9<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-11</exec-date>
+		<order-date>2019-01-9</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-9
-Oryginalna kwota operacji: 64.6 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-64.6</amount>
-		<ending-balance curr='PLN'>+9662.09</ending-balance>
+Oryginalna kwota operacji: 4.47 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-4.47</amount>
+		<ending-balance curr='PLN'>+9529.56</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-12<\exec-date>
-		<order-date>2019-01-10<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-12</exec-date>
+		<order-date>2019-01-10</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-10
-Oryginalna kwota operacji: 41.18 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-41.18</amount>
-		<ending-balance curr='PLN'>+9620.91</ending-balance>
+Oryginalna kwota operacji: 45.58 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-45.58</amount>
+		<ending-balance curr='PLN'>+9483.98</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-13<\exec-date>
-		<order-date>2019-01-11<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-13</exec-date>
+		<order-date>2019-01-11</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-11
-Oryginalna kwota operacji: 57.75 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-57.75</amount>
-		<ending-balance curr='PLN'>+9563.16</ending-balance>
+Oryginalna kwota operacji: 38.79 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-38.79</amount>
+		<ending-balance curr='PLN'>+9445.19</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-14<\exec-date>
-		<order-date>2019-01-12<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-14</exec-date>
+		<order-date>2019-01-12</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-12
-Oryginalna kwota operacji: 86.12 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-86.12</amount>
-		<ending-balance curr='PLN'>+9477.04</ending-balance>
+Oryginalna kwota operacji: 99.9 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-99.9</amount>
+		<ending-balance curr='PLN'>+9345.29</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-15<\exec-date>
-		<order-date>2019-01-13<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-15</exec-date>
+		<order-date>2019-01-13</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-13
-Oryginalna kwota operacji: 86.0 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-86.0</amount>
-		<ending-balance curr='PLN'>+9391.04</ending-balance>
+Oryginalna kwota operacji: 86.63 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-86.63</amount>
+		<ending-balance curr='PLN'>+9258.66</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-16<\exec-date>
-		<order-date>2019-01-14<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-16</exec-date>
+		<order-date>2019-01-14</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-14
-Oryginalna kwota operacji: 64.67 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-64.67</amount>
-		<ending-balance curr='PLN'>+9326.37</ending-balance>
+Oryginalna kwota operacji: 62.43 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-62.43</amount>
+		<ending-balance curr='PLN'>+9196.23</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-17<\exec-date>
-		<order-date>2019-01-15<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-17</exec-date>
+		<order-date>2019-01-15</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-15
-Oryginalna kwota operacji: 98.93 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-98.93</amount>
-		<ending-balance curr='PLN'>+9227.44</ending-balance>
+Oryginalna kwota operacji: 63.36 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-63.36</amount>
+		<ending-balance curr='PLN'>+9132.87</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-18<\exec-date>
-		<order-date>2019-01-16<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-18</exec-date>
+		<order-date>2019-01-16</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-16
-Oryginalna kwota operacji: 28.27 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-28.27</amount>
-		<ending-balance curr='PLN'>+9199.17</ending-balance>
+Oryginalna kwota operacji: 54.54 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-54.54</amount>
+		<ending-balance curr='PLN'>+9078.33</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-19<\exec-date>
-		<order-date>2019-01-17<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-19</exec-date>
+		<order-date>2019-01-17</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-17
-Oryginalna kwota operacji: 56.47 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-56.47</amount>
-		<ending-balance curr='PLN'>+9142.7</ending-balance>
+Oryginalna kwota operacji: 31.12 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-31.12</amount>
+		<ending-balance curr='PLN'>+9047.21</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-20<\exec-date>
-		<order-date>2019-01-18<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-20</exec-date>
+		<order-date>2019-01-18</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-18
-Oryginalna kwota operacji: 41.19 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-41.19</amount>
-		<ending-balance curr='PLN'>+9101.51</ending-balance>
+Oryginalna kwota operacji: 79.8 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-79.8</amount>
+		<ending-balance curr='PLN'>+8967.41</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-21<\exec-date>
-		<order-date>2019-01-19<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-21</exec-date>
+		<order-date>2019-01-19</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-19
-Oryginalna kwota operacji: 80.26 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-80.26</amount>
-		<ending-balance curr='PLN'>+9021.25</ending-balance>
+Oryginalna kwota operacji: 14.89 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-14.89</amount>
+		<ending-balance curr='PLN'>+8952.52</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-22<\exec-date>
-		<order-date>2019-01-20<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-22</exec-date>
+		<order-date>2019-01-20</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-20
-Oryginalna kwota operacji: 6.1 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-6.1</amount>
-		<ending-balance curr='PLN'>+9015.15</ending-balance>
+Oryginalna kwota operacji: 23.82 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-23.82</amount>
+		<ending-balance curr='PLN'>+8928.7</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-23<\exec-date>
-		<order-date>2019-01-21<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-23</exec-date>
+		<order-date>2019-01-21</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-21
-Oryginalna kwota operacji: 14.08 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-14.08</amount>
-		<ending-balance curr='PLN'>+9001.07</ending-balance>
+Oryginalna kwota operacji: 46.23 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-46.23</amount>
+		<ending-balance curr='PLN'>+8882.47</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-24<\exec-date>
-		<order-date>2019-01-22<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-24</exec-date>
+		<order-date>2019-01-22</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-22
-Oryginalna kwota operacji: 80.17 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-80.17</amount>
-		<ending-balance curr='PLN'>+8920.9</ending-balance>
+Oryginalna kwota operacji: 29.04 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-29.04</amount>
+		<ending-balance curr='PLN'>+8853.43</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-25<\exec-date>
-		<order-date>2019-01-23<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-25</exec-date>
+		<order-date>2019-01-23</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-23
-Oryginalna kwota operacji: 68.95 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-68.95</amount>
-		<ending-balance curr='PLN'>+8851.95</ending-balance>
+Oryginalna kwota operacji: 95.49 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-95.49</amount>
+		<ending-balance curr='PLN'>+8757.94</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-26<\exec-date>
-		<order-date>2019-01-24<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-26</exec-date>
+		<order-date>2019-01-24</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-24
-Oryginalna kwota operacji: 66.08 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-66.08</amount>
-		<ending-balance curr='PLN'>+8785.87</ending-balance>
+Oryginalna kwota operacji: 21.74 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-21.74</amount>
+		<ending-balance curr='PLN'>+8736.2</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-27<\exec-date>
-		<order-date>2019-01-25<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-27</exec-date>
+		<order-date>2019-01-25</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-25
-Oryginalna kwota operacji: 60.53 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-60.53</amount>
-		<ending-balance curr='PLN'>+8725.34</ending-balance>
+Oryginalna kwota operacji: 94.5 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-94.5</amount>
+		<ending-balance curr='PLN'>+8641.7</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-28<\exec-date>
-		<order-date>2019-01-26<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-28</exec-date>
+		<order-date>2019-01-26</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-26
-Oryginalna kwota operacji: 48.76 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-48.76</amount>
-		<ending-balance curr='PLN'>+8676.58</ending-balance>
+Oryginalna kwota operacji: 31.42 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-31.42</amount>
+		<ending-balance curr='PLN'>+8610.28</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-29<\exec-date>
-		<order-date>2019-01-27<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-29</exec-date>
+		<order-date>2019-01-27</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-27
-Oryginalna kwota operacji: 43.83 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-43.83</amount>
-		<ending-balance curr='PLN'>+8632.75</ending-balance>
+Oryginalna kwota operacji: 40.28 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-40.28</amount>
+		<ending-balance curr='PLN'>+8570.0</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-01-30<\exec-date>
-		<order-date>2019-01-28<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-01-30</exec-date>
+		<order-date>2019-01-28</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-28
-Oryginalna kwota operacji: 75.86 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-75.86</amount>
-		<ending-balance curr='PLN'>+8556.89</ending-balance>
+Oryginalna kwota operacji: 55.44 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-55.44</amount>
+		<ending-balance curr='PLN'>+8514.56</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-1<\exec-date>
-		<order-date>2019-01-29<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-1</exec-date>
+		<order-date>2019-01-29</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-29
-Oryginalna kwota operacji: 19.7 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-19.7</amount>
-		<ending-balance curr='PLN'>+8537.19</ending-balance>
+Oryginalna kwota operacji: 98.07 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-98.07</amount>
+		<ending-balance curr='PLN'>+8416.49</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-2<\exec-date>
-		<order-date>2019-01-30<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-2</exec-date>
+		<order-date>2019-01-30</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-01-30
-Oryginalna kwota operacji: 98.04 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-98.04</amount>
-		<ending-balance curr='PLN'>+8439.15</ending-balance>
+Oryginalna kwota operacji: 4.37 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-4.37</amount>
+		<ending-balance curr='PLN'>+8412.12</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-3<\exec-date>
-		<order-date>2019-02-1<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-3</exec-date>
+		<order-date>2019-02-1</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-1
-Oryginalna kwota operacji: 92.92 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-92.92</amount>
-		<ending-balance curr='PLN'>+8346.23</ending-balance>
+Oryginalna kwota operacji: 96.76 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-96.76</amount>
+		<ending-balance curr='PLN'>+8315.36</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-4<\exec-date>
-		<order-date>2019-02-2<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-4</exec-date>
+		<order-date>2019-02-2</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-2
-Oryginalna kwota operacji: 10.75 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-10.75</amount>
-		<ending-balance curr='PLN'>+8335.48</ending-balance>
+Oryginalna kwota operacji: 81.46 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-81.46</amount>
+		<ending-balance curr='PLN'>+8233.9</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-5<\exec-date>
-		<order-date>2019-02-3<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-5</exec-date>
+		<order-date>2019-02-3</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-3
-Oryginalna kwota operacji: 48.3 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-48.3</amount>
-		<ending-balance curr='PLN'>+8287.18</ending-balance>
+Oryginalna kwota operacji: 66.74 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-66.74</amount>
+		<ending-balance curr='PLN'>+8167.16</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-6<\exec-date>
-		<order-date>2019-02-4<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-6</exec-date>
+		<order-date>2019-02-4</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-4
-Oryginalna kwota operacji: 71.64 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-71.64</amount>
-		<ending-balance curr='PLN'>+8215.54</ending-balance>
+Oryginalna kwota operacji: 30.97 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-30.97</amount>
+		<ending-balance curr='PLN'>+8136.19</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-7<\exec-date>
-		<order-date>2019-02-5<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-7</exec-date>
+		<order-date>2019-02-5</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-5
-Oryginalna kwota operacji: 80.18 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-80.18</amount>
-		<ending-balance curr='PLN'>+8135.36</ending-balance>
+Oryginalna kwota operacji: 70.96 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-70.96</amount>
+		<ending-balance curr='PLN'>+8065.23</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-8<\exec-date>
-		<order-date>2019-02-6<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-8</exec-date>
+		<order-date>2019-02-6</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-6
-Oryginalna kwota operacji: 7.41 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-7.41</amount>
-		<ending-balance curr='PLN'>+8127.95</ending-balance>
+Oryginalna kwota operacji: 40.89 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-40.89</amount>
+		<ending-balance curr='PLN'>+8024.34</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-9<\exec-date>
-		<order-date>2019-02-7<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-9</exec-date>
+		<order-date>2019-02-7</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-7
-Oryginalna kwota operacji: 18.53 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-18.53</amount>
-		<ending-balance curr='PLN'>+8109.42</ending-balance>
+Oryginalna kwota operacji: 15.46 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-15.46</amount>
+		<ending-balance curr='PLN'>+8008.88</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-10<\exec-date>
-		<order-date>2019-02-8<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-10</exec-date>
+		<order-date>2019-02-8</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-8
-Oryginalna kwota operacji: 9.67 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-9.67</amount>
-		<ending-balance curr='PLN'>+8099.75</ending-balance>
+Oryginalna kwota operacji: 33.52 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-33.52</amount>
+		<ending-balance curr='PLN'>+7975.36</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-11<\exec-date>
-		<order-date>2019-02-9<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-11</exec-date>
+		<order-date>2019-02-9</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-9
-Oryginalna kwota operacji: 25.33 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-25.33</amount>
-		<ending-balance curr='PLN'>+8074.42</ending-balance>
+Oryginalna kwota operacji: 21.05 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-21.05</amount>
+		<ending-balance curr='PLN'>+7954.31</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-12<\exec-date>
-		<order-date>2019-02-10<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-12</exec-date>
+		<order-date>2019-02-10</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-10
-Oryginalna kwota operacji: 27.07 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-27.07</amount>
-		<ending-balance curr='PLN'>+8047.35</ending-balance>
+Oryginalna kwota operacji: 10.64 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-10.64</amount>
+		<ending-balance curr='PLN'>+7943.67</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-13<\exec-date>
-		<order-date>2019-02-11<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-13</exec-date>
+		<order-date>2019-02-11</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-11
-Oryginalna kwota operacji: 75.67 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-75.67</amount>
-		<ending-balance curr='PLN'>+7971.68</ending-balance>
+Oryginalna kwota operacji: 85.9 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-85.9</amount>
+		<ending-balance curr='PLN'>+7857.77</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-14<\exec-date>
-		<order-date>2019-02-12<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-14</exec-date>
+		<order-date>2019-02-12</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-12
-Oryginalna kwota operacji: 79.94 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-79.94</amount>
-		<ending-balance curr='PLN'>+7891.74</ending-balance>
+Oryginalna kwota operacji: 29.69 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-29.69</amount>
+		<ending-balance curr='PLN'>+7828.08</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-15<\exec-date>
-		<order-date>2019-02-13<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-15</exec-date>
+		<order-date>2019-02-13</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-13
-Oryginalna kwota operacji: 57.11 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-57.11</amount>
-		<ending-balance curr='PLN'>+7834.63</ending-balance>
+Oryginalna kwota operacji: 84.01 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-84.01</amount>
+		<ending-balance curr='PLN'>+7744.07</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-16<\exec-date>
-		<order-date>2019-02-14<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-16</exec-date>
+		<order-date>2019-02-14</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-14
-Oryginalna kwota operacji: 6.11 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-6.11</amount>
-		<ending-balance curr='PLN'>+7828.52</ending-balance>
+Oryginalna kwota operacji: 58.52 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-58.52</amount>
+		<ending-balance curr='PLN'>+7685.55</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-17<\exec-date>
-		<order-date>2019-02-15<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-17</exec-date>
+		<order-date>2019-02-15</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-15
-Oryginalna kwota operacji: 36.95 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-36.95</amount>
-		<ending-balance curr='PLN'>+7791.57</ending-balance>
+Oryginalna kwota operacji: 43.78 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-43.78</amount>
+		<ending-balance curr='PLN'>+7641.77</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-18<\exec-date>
-		<order-date>2019-02-16<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-18</exec-date>
+		<order-date>2019-02-16</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-16
-Oryginalna kwota operacji: 0.96 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-0.96</amount>
-		<ending-balance curr='PLN'>+7790.61</ending-balance>
+Oryginalna kwota operacji: 42.9 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-42.9</amount>
+		<ending-balance curr='PLN'>+7598.87</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-19<\exec-date>
-		<order-date>2019-02-17<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-19</exec-date>
+		<order-date>2019-02-17</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-17
-Oryginalna kwota operacji: 40.39 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-40.39</amount>
-		<ending-balance curr='PLN'>+7750.22</ending-balance>
+Oryginalna kwota operacji: 26.17 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-26.17</amount>
+		<ending-balance curr='PLN'>+7572.7</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-20<\exec-date>
-		<order-date>2019-02-18<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-20</exec-date>
+		<order-date>2019-02-18</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-18
-Oryginalna kwota operacji: 43.89 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-43.89</amount>
-		<ending-balance curr='PLN'>+7706.33</ending-balance>
+Oryginalna kwota operacji: 76.31 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-76.31</amount>
+		<ending-balance curr='PLN'>+7496.39</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-21<\exec-date>
-		<order-date>2019-02-19<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-21</exec-date>
+		<order-date>2019-02-19</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-19
-Oryginalna kwota operacji: 47.54 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-47.54</amount>
-		<ending-balance curr='PLN'>+7658.79</ending-balance>
+Oryginalna kwota operacji: 81.65 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-81.65</amount>
+		<ending-balance curr='PLN'>+7414.74</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-22<\exec-date>
-		<order-date>2019-02-20<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-22</exec-date>
+		<order-date>2019-02-20</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-20
-Oryginalna kwota operacji: 40.04 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-40.04</amount>
-		<ending-balance curr='PLN'>+7618.75</ending-balance>
+Oryginalna kwota operacji: 46.21 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-46.21</amount>
+		<ending-balance curr='PLN'>+7368.53</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-23<\exec-date>
-		<order-date>2019-02-21<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-23</exec-date>
+		<order-date>2019-02-21</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-21
-Oryginalna kwota operacji: 44.13 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-44.13</amount>
-		<ending-balance curr='PLN'>+7574.62</ending-balance>
+Oryginalna kwota operacji: 84.78 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-84.78</amount>
+		<ending-balance curr='PLN'>+7283.75</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-24<\exec-date>
-		<order-date>2019-02-22<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-24</exec-date>
+		<order-date>2019-02-22</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-22
-Oryginalna kwota operacji: 3.18 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-3.18</amount>
-		<ending-balance curr='PLN'>+7571.44</ending-balance>
+Oryginalna kwota operacji: 34.55 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-34.55</amount>
+		<ending-balance curr='PLN'>+7249.2</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-25<\exec-date>
-		<order-date>2019-02-23<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-25</exec-date>
+		<order-date>2019-02-23</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-23
-Oryginalna kwota operacji: 42.17 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-42.17</amount>
-		<ending-balance curr='PLN'>+7529.27</ending-balance>
+Oryginalna kwota operacji: 35.01 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-35.01</amount>
+		<ending-balance curr='PLN'>+7214.19</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-26<\exec-date>
-		<order-date>2019-02-24<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-26</exec-date>
+		<order-date>2019-02-24</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-24
-Oryginalna kwota operacji: 27.29 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-27.29</amount>
-		<ending-balance curr='PLN'>+7501.98</ending-balance>
+Oryginalna kwota operacji: 14.73 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-14.73</amount>
+		<ending-balance curr='PLN'>+7199.46</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-27<\exec-date>
-		<order-date>2019-02-25<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-27</exec-date>
+		<order-date>2019-02-25</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-25
-Oryginalna kwota operacji: 8.99 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-8.99</amount>
-		<ending-balance curr='PLN'>+7492.99</ending-balance>
+Oryginalna kwota operacji: 41.72 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-41.72</amount>
+		<ending-balance curr='PLN'>+7157.74</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-28<\exec-date>
-		<order-date>2019-02-26<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-28</exec-date>
+		<order-date>2019-02-26</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-26
-Oryginalna kwota operacji: 28.37 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-28.37</amount>
-		<ending-balance curr='PLN'>+7464.62</ending-balance>
+Oryginalna kwota operacji: 18.73 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-18.73</amount>
+		<ending-balance curr='PLN'>+7139.01</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-29<\exec-date>
-		<order-date>2019-02-27<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-29</exec-date>
+		<order-date>2019-02-27</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-27
-Oryginalna kwota operacji: 96.27 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-96.27</amount>
-		<ending-balance curr='PLN'>+7368.35</ending-balance>
+Oryginalna kwota operacji: 12.06 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-12.06</amount>
+		<ending-balance curr='PLN'>+7126.95</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-02-30<\exec-date>
-		<order-date>2019-02-28<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-02-30</exec-date>
+		<order-date>2019-02-28</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-28
-Oryginalna kwota operacji: 75.79 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-75.79</amount>
-		<ending-balance curr='PLN'>+7292.56</ending-balance>
+Oryginalna kwota operacji: 25.78 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-25.78</amount>
+		<ending-balance curr='PLN'>+7101.17</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-1<\exec-date>
-		<order-date>2019-02-29<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-1</exec-date>
+		<order-date>2019-02-29</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-29
-Oryginalna kwota operacji: 53.9 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-53.9</amount>
-		<ending-balance curr='PLN'>+7238.66</ending-balance>
+Oryginalna kwota operacji: 66.83 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-66.83</amount>
+		<ending-balance curr='PLN'>+7034.34</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-2<\exec-date>
-		<order-date>2019-02-30<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-2</exec-date>
+		<order-date>2019-02-30</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-02-30
-Oryginalna kwota operacji: 9.71 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-9.71</amount>
-		<ending-balance curr='PLN'>+7228.95</ending-balance>
+Oryginalna kwota operacji: 36.87 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-36.87</amount>
+		<ending-balance curr='PLN'>+6997.47</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-3<\exec-date>
-		<order-date>2019-03-1<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-3</exec-date>
+		<order-date>2019-03-1</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-1
-Oryginalna kwota operacji: 90.01 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-90.01</amount>
-		<ending-balance curr='PLN'>+7138.94</ending-balance>
+Oryginalna kwota operacji: 75.92 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-75.92</amount>
+		<ending-balance curr='PLN'>+6921.55</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-4<\exec-date>
-		<order-date>2019-03-2<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-4</exec-date>
+		<order-date>2019-03-2</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-2
-Oryginalna kwota operacji: 89.53 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-89.53</amount>
-		<ending-balance curr='PLN'>+7049.41</ending-balance>
+Oryginalna kwota operacji: 80.81 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-80.81</amount>
+		<ending-balance curr='PLN'>+6840.74</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-5<\exec-date>
-		<order-date>2019-03-3<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-5</exec-date>
+		<order-date>2019-03-3</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-3
-Oryginalna kwota operacji: 56.71 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-56.71</amount>
-		<ending-balance curr='PLN'>+6992.7</ending-balance>
+Oryginalna kwota operacji: 66.54 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-66.54</amount>
+		<ending-balance curr='PLN'>+6774.2</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-6<\exec-date>
-		<order-date>2019-03-4<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-6</exec-date>
+		<order-date>2019-03-4</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-4
-Oryginalna kwota operacji: 34.84 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-34.84</amount>
-		<ending-balance curr='PLN'>+6957.86</ending-balance>
+Oryginalna kwota operacji: 3.59 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-3.59</amount>
+		<ending-balance curr='PLN'>+6770.61</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-7<\exec-date>
-		<order-date>2019-03-5<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-7</exec-date>
+		<order-date>2019-03-5</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-5
-Oryginalna kwota operacji: 69.47 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-69.47</amount>
-		<ending-balance curr='PLN'>+6888.39</ending-balance>
+Oryginalna kwota operacji: 62.08 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-62.08</amount>
+		<ending-balance curr='PLN'>+6708.53</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-8<\exec-date>
-		<order-date>2019-03-6<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-8</exec-date>
+		<order-date>2019-03-6</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-6
-Oryginalna kwota operacji: 98.01 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-98.01</amount>
-		<ending-balance curr='PLN'>+6790.38</ending-balance>
+Oryginalna kwota operacji: 50.5 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-50.5</amount>
+		<ending-balance curr='PLN'>+6658.03</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-9<\exec-date>
-		<order-date>2019-03-7<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-9</exec-date>
+		<order-date>2019-03-7</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-7
-Oryginalna kwota operacji: 89.91 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-89.91</amount>
-		<ending-balance curr='PLN'>+6700.47</ending-balance>
+Oryginalna kwota operacji: 16.76 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-16.76</amount>
+		<ending-balance curr='PLN'>+6641.27</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-10<\exec-date>
-		<order-date>2019-03-8<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-10</exec-date>
+		<order-date>2019-03-8</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-8
-Oryginalna kwota operacji: 70.37 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-70.37</amount>
-		<ending-balance curr='PLN'>+6630.1</ending-balance>
+Oryginalna kwota operacji: 80.6 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-80.6</amount>
+		<ending-balance curr='PLN'>+6560.67</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-11<\exec-date>
-		<order-date>2019-03-9<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-11</exec-date>
+		<order-date>2019-03-9</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-9
-Oryginalna kwota operacji: 22.67 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-22.67</amount>
-		<ending-balance curr='PLN'>+6607.43</ending-balance>
+Oryginalna kwota operacji: 0.63 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-0.63</amount>
+		<ending-balance curr='PLN'>+6560.04</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-12<\exec-date>
-		<order-date>2019-03-10<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-12</exec-date>
+		<order-date>2019-03-10</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-10
-Oryginalna kwota operacji: 77.71 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-77.71</amount>
-		<ending-balance curr='PLN'>+6529.72</ending-balance>
+Oryginalna kwota operacji: 22.03 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-22.03</amount>
+		<ending-balance curr='PLN'>+6538.01</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-13<\exec-date>
-		<order-date>2019-03-11<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-13</exec-date>
+		<order-date>2019-03-11</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-11
-Oryginalna kwota operacji: 20.54 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-20.54</amount>
-		<ending-balance curr='PLN'>+6509.18</ending-balance>
+Oryginalna kwota operacji: 74.29 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-74.29</amount>
+		<ending-balance curr='PLN'>+6463.72</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-14<\exec-date>
-		<order-date>2019-03-12<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-14</exec-date>
+		<order-date>2019-03-12</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-12
-Oryginalna kwota operacji: 22.29 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-22.29</amount>
-		<ending-balance curr='PLN'>+6486.89</ending-balance>
+Oryginalna kwota operacji: 11.08 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-11.08</amount>
+		<ending-balance curr='PLN'>+6452.64</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-15<\exec-date>
-		<order-date>2019-03-13<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-15</exec-date>
+		<order-date>2019-03-13</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-13
-Oryginalna kwota operacji: 82.09 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-82.09</amount>
-		<ending-balance curr='PLN'>+6404.8</ending-balance>
+Oryginalna kwota operacji: 82.55 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-82.55</amount>
+		<ending-balance curr='PLN'>+6370.09</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-16<\exec-date>
-		<order-date>2019-03-14<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-16</exec-date>
+		<order-date>2019-03-14</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-14
-Oryginalna kwota operacji: 84.63 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-84.63</amount>
-		<ending-balance curr='PLN'>+6320.17</ending-balance>
+Oryginalna kwota operacji: 80.01 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-80.01</amount>
+		<ending-balance curr='PLN'>+6290.08</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-17<\exec-date>
-		<order-date>2019-03-15<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-17</exec-date>
+		<order-date>2019-03-15</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-15
-Oryginalna kwota operacji: 85.36 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-85.36</amount>
-		<ending-balance curr='PLN'>+6234.81</ending-balance>
+Oryginalna kwota operacji: 6.36 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-6.36</amount>
+		<ending-balance curr='PLN'>+6283.72</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-18<\exec-date>
-		<order-date>2019-03-16<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-18</exec-date>
+		<order-date>2019-03-16</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-16
-Oryginalna kwota operacji: 57.56 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-57.56</amount>
-		<ending-balance curr='PLN'>+6177.25</ending-balance>
+Oryginalna kwota operacji: 46.47 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-46.47</amount>
+		<ending-balance curr='PLN'>+6237.25</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-19<\exec-date>
-		<order-date>2019-03-17<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-19</exec-date>
+		<order-date>2019-03-17</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-17
-Oryginalna kwota operacji: 51.57 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-51.57</amount>
-		<ending-balance curr='PLN'>+6125.68</ending-balance>
+Oryginalna kwota operacji: 52.58 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-52.58</amount>
+		<ending-balance curr='PLN'>+6184.67</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-20<\exec-date>
-		<order-date>2019-03-18<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-20</exec-date>
+		<order-date>2019-03-18</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-18
-Oryginalna kwota operacji: 20.82 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-20.82</amount>
-		<ending-balance curr='PLN'>+6104.86</ending-balance>
+Oryginalna kwota operacji: 7.17 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-7.17</amount>
+		<ending-balance curr='PLN'>+6177.5</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-21<\exec-date>
-		<order-date>2019-03-19<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-21</exec-date>
+		<order-date>2019-03-19</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-19
-Oryginalna kwota operacji: 42.54 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-42.54</amount>
-		<ending-balance curr='PLN'>+6062.32</ending-balance>
+Oryginalna kwota operacji: 82.48 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-82.48</amount>
+		<ending-balance curr='PLN'>+6095.02</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-22<\exec-date>
-		<order-date>2019-03-20<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-22</exec-date>
+		<order-date>2019-03-20</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-20
-Oryginalna kwota operacji: 5.68 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-5.68</amount>
-		<ending-balance curr='PLN'>+6056.64</ending-balance>
+Oryginalna kwota operacji: 35.48 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-35.48</amount>
+		<ending-balance curr='PLN'>+6059.54</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-23<\exec-date>
-		<order-date>2019-03-21<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-23</exec-date>
+		<order-date>2019-03-21</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-21
-Oryginalna kwota operacji: 2.07 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-2.07</amount>
-		<ending-balance curr='PLN'>+6054.57</ending-balance>
+Oryginalna kwota operacji: 68.68 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-68.68</amount>
+		<ending-balance curr='PLN'>+5990.86</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-24<\exec-date>
-		<order-date>2019-03-22<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-24</exec-date>
+		<order-date>2019-03-22</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-22
-Oryginalna kwota operacji: 70.14 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-70.14</amount>
-		<ending-balance curr='PLN'>+5984.43</ending-balance>
+Oryginalna kwota operacji: 31.81 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-31.81</amount>
+		<ending-balance curr='PLN'>+5959.05</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-25<\exec-date>
-		<order-date>2019-03-23<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-25</exec-date>
+		<order-date>2019-03-23</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-23
-Oryginalna kwota operacji: 55.05 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-55.05</amount>
-		<ending-balance curr='PLN'>+5929.38</ending-balance>
+Oryginalna kwota operacji: 23.93 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-23.93</amount>
+		<ending-balance curr='PLN'>+5935.12</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-26<\exec-date>
-		<order-date>2019-03-24<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-26</exec-date>
+		<order-date>2019-03-24</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-24
-Oryginalna kwota operacji: 68.13 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-68.13</amount>
-		<ending-balance curr='PLN'>+5861.25</ending-balance>
+Oryginalna kwota operacji: 55.24 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-55.24</amount>
+		<ending-balance curr='PLN'>+5879.88</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-27<\exec-date>
-		<order-date>2019-03-25<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-27</exec-date>
+		<order-date>2019-03-25</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-25
-Oryginalna kwota operacji: 45.36 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-45.36</amount>
-		<ending-balance curr='PLN'>+5815.89</ending-balance>
+Oryginalna kwota operacji: 95.32 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-95.32</amount>
+		<ending-balance curr='PLN'>+5784.56</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-28<\exec-date>
-		<order-date>2019-03-26<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-28</exec-date>
+		<order-date>2019-03-26</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-26
-Oryginalna kwota operacji: 49.11 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-49.11</amount>
-		<ending-balance curr='PLN'>+5766.78</ending-balance>
+Oryginalna kwota operacji: 89.91 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-89.91</amount>
+		<ending-balance curr='PLN'>+5694.65</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-29<\exec-date>
-		<order-date>2019-03-27<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-29</exec-date>
+		<order-date>2019-03-27</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-27
-Oryginalna kwota operacji: 47.87 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-47.87</amount>
-		<ending-balance curr='PLN'>+5718.91</ending-balance>
+Oryginalna kwota operacji: 37.1 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-37.1</amount>
+		<ending-balance curr='PLN'>+5657.55</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-03-30<\exec-date>
-		<order-date>2019-03-28<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-03-30</exec-date>
+		<order-date>2019-03-28</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-28
-Oryginalna kwota operacji: 6.75 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-6.75</amount>
-		<ending-balance curr='PLN'>+5712.16</ending-balance>
+Oryginalna kwota operacji: 11.31 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-11.31</amount>
+		<ending-balance curr='PLN'>+5646.24</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-1<\exec-date>
-		<order-date>2019-03-29<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-1</exec-date>
+		<order-date>2019-03-29</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-29
-Oryginalna kwota operacji: 60.52 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-60.52</amount>
-		<ending-balance curr='PLN'>+5651.64</ending-balance>
+Oryginalna kwota operacji: 71.71 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-71.71</amount>
+		<ending-balance curr='PLN'>+5574.53</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-2<\exec-date>
-		<order-date>2019-03-30<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-2</exec-date>
+		<order-date>2019-03-30</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-03-30
-Oryginalna kwota operacji: 29.4 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-29.4</amount>
-		<ending-balance curr='PLN'>+5622.24</ending-balance>
+Oryginalna kwota operacji: 28.66 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-28.66</amount>
+		<ending-balance curr='PLN'>+5545.87</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-3<\exec-date>
-		<order-date>2019-04-1<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-3</exec-date>
+		<order-date>2019-04-1</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-1
-Oryginalna kwota operacji: 57.05 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-57.05</amount>
-		<ending-balance curr='PLN'>+5565.19</ending-balance>
+Oryginalna kwota operacji: 28.31 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-28.31</amount>
+		<ending-balance curr='PLN'>+5517.56</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-4<\exec-date>
-		<order-date>2019-04-2<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-4</exec-date>
+		<order-date>2019-04-2</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-2
-Oryginalna kwota operacji: 87.5 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-87.5</amount>
-		<ending-balance curr='PLN'>+5477.69</ending-balance>
+Oryginalna kwota operacji: 76.09 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-76.09</amount>
+		<ending-balance curr='PLN'>+5441.47</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-5<\exec-date>
-		<order-date>2019-04-3<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-5</exec-date>
+		<order-date>2019-04-3</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-3
-Oryginalna kwota operacji: 28.84 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-28.84</amount>
-		<ending-balance curr='PLN'>+5448.85</ending-balance>
+Oryginalna kwota operacji: 29.47 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-29.47</amount>
+		<ending-balance curr='PLN'>+5412.0</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-6<\exec-date>
-		<order-date>2019-04-4<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-6</exec-date>
+		<order-date>2019-04-4</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-4
-Oryginalna kwota operacji: 98.26 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-98.26</amount>
-		<ending-balance curr='PLN'>+5350.59</ending-balance>
+Oryginalna kwota operacji: 44.57 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-44.57</amount>
+		<ending-balance curr='PLN'>+5367.43</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-7<\exec-date>
-		<order-date>2019-04-5<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-7</exec-date>
+		<order-date>2019-04-5</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-5
-Oryginalna kwota operacji: 89.83 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-89.83</amount>
-		<ending-balance curr='PLN'>+5260.76</ending-balance>
+Oryginalna kwota operacji: 69.77 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-69.77</amount>
+		<ending-balance curr='PLN'>+5297.66</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-8<\exec-date>
-		<order-date>2019-04-6<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-8</exec-date>
+		<order-date>2019-04-6</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-6
-Oryginalna kwota operacji: 69.39 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-69.39</amount>
-		<ending-balance curr='PLN'>+5191.37</ending-balance>
+Oryginalna kwota operacji: 83.22 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-83.22</amount>
+		<ending-balance curr='PLN'>+5214.44</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-9<\exec-date>
-		<order-date>2019-04-7<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-9</exec-date>
+		<order-date>2019-04-7</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-7
-Oryginalna kwota operacji: 91.71 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-91.71</amount>
-		<ending-balance curr='PLN'>+5099.66</ending-balance>
+Oryginalna kwota operacji: 80.25 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-80.25</amount>
+		<ending-balance curr='PLN'>+5134.19</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-10<\exec-date>
-		<order-date>2019-04-8<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-10</exec-date>
+		<order-date>2019-04-8</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-8
-Oryginalna kwota operacji: 3.43 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-3.43</amount>
-		<ending-balance curr='PLN'>+5096.23</ending-balance>
+Oryginalna kwota operacji: 16.26 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-16.26</amount>
+		<ending-balance curr='PLN'>+5117.93</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-11<\exec-date>
-		<order-date>2019-04-9<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-11</exec-date>
+		<order-date>2019-04-9</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-9
-Oryginalna kwota operacji: 19.72 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-19.72</amount>
-		<ending-balance curr='PLN'>+5076.51</ending-balance>
+Oryginalna kwota operacji: 49.57 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-49.57</amount>
+		<ending-balance curr='PLN'>+5068.36</ending-balance>
 	</operation>
 	<operation>
-		<exec-date>2019-04-12<\exec-date>
-		<order-date>2019-04-10<\order-date>
-		<type>Platnosc karta<\type>
+		<exec-date>2019-04-12</exec-date>
+		<order-date>2019-04-10</order-date>
+		<type>Platnosc karta</type>
 		<description>Tytul: 09016606177698710044149
 Lokalizacja: Kraj: POLSKA Miasto: Poznan Adres: Poznan    91237
 Data i czas operacji: 2019-04-10
-Oryginalna kwota operacji: 98.5 PLN
-Numer karty: 265497******4678<\description>
-		<amount curr='PLN'>-98.5</amount>
-		<ending-balance curr='PLN'>+4978.01</ending-balance>
+Oryginalna kwota operacji: 87.5 PLN
+Numer karty: 265497******4678</description>
+		<amount curr='PLN'>-87.5</amount>
+		<ending-balance curr='PLN'>+4980.86</ending-balance>
 	</operation>
 </operations>
 </account-history>
